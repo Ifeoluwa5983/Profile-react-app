@@ -1,0 +1,1 @@
+export const getUsers = `http://jsonplaceholder.typicode.com/users`
